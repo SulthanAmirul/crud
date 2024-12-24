@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3cb92;
+    margin: 0;
+}
+
+h2 {
+    padding: 0;
+    text-align: center;
+}
+
+
+.asu {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ed75c9;
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.btn-delete {
+    background-color: #36f45c;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-edit {
+    background-color: #ffa500;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
